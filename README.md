@@ -1,0 +1,1 @@
+这是关于我开始学习java script和git、GitHub的记录
